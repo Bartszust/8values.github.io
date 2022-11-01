@@ -3,17 +3,8 @@ ideologies = [
         "name": "Anarcho-Communism",
         "stats": {
             "econ": 100,
-            "dipl": 50,
+            "dipl": 80,
             "govt": 100,
-            "scty": 90
-        }
-    },
-    {
-        "name": "Libertarian Communism",
-        "stats": {
-            "econ": 100,
-            "dipl": 70,
-            "govt": 80,
             "scty": 80
         }
     },
@@ -54,7 +45,7 @@ ideologies = [
         }
     },
     {
-        "name": "Stalinism/Maoism",
+        "name": "Stalinism-Maoism",
         "stats": {
             "econ": 100,
             "dipl": 20,
@@ -108,19 +99,10 @@ ideologies = [
         }
     },
     {
-        "name": "Revolutionary Socialism",
-        "stats": {
-            "econ": 80,
-            "dipl": 20,
-            "govt": 50,
-            "scty": 70
-        }
-    },
-    {
         "name": "Libertarian Socialism",
         "stats": {
             "econ": 80,
-            "dipl": 80,
+            "dipl": 70,
             "govt": 80,
             "scty": 80
         }
@@ -175,7 +157,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 60,
-            "govt": 50,
+            "govt": 40,
             "scty": 30
         }
     },
@@ -184,7 +166,7 @@ ideologies = [
         "stats": {
             "econ": 60,
             "dipl": 70,
-            "govt": 60,
+            "govt": 40,
             "scty": 80
         }
     },
@@ -234,7 +216,7 @@ ideologies = [
         }
     },
     {
-        "name": "Centrist",
+        "name": "Centrist/Moderate",
         "stats": {
             "econ": 50,
             "dipl": 50,
@@ -256,7 +238,7 @@ ideologies = [
         "stats": {
             "econ": 50,
             "dipl": 50,
-            "govt": 100,
+            "govt": 0,
             "scty": 20
         }
     },
@@ -279,37 +261,19 @@ ideologies = [
         }
     },
     {
-        "name": "Reactionary",
-        "stats": {
-            "econ": 40,
-            "dipl": 40,
-            "govt": 40,
-            "scty": 10
-        }
-    },
-    {
-        "name": "Social Libertarianism",
-        "stats": {
-            "econ": 60,
-            "dipl": 70,
-            "govt": 80,
-            "scty": 70
-        }
-    },
-    {
         "name": "Libertarianism",
         "stats": {
             "econ": 40,
             "dipl": 60,
-            "govt": 80,
-            "scty": 60
+            "govt": 70,
+            "scty": 50
         }
     },
     {
         "name": "Anarcho-Egoism",
         "stats": {
             "econ": 40,
-            "dipl": 50,
+            "dipl": 60,
             "govt": 100,
             "scty": 50
         }
@@ -363,8 +327,8 @@ ideologies = [
         "name": "Neo-Liberalism",
         "stats": {
             "econ": 30,
-            "dipl": 30,
-            "govt": 50,
+            "dipl": 40,
+            "govt": 40,
             "scty": 60
         }
     },
@@ -382,24 +346,15 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 30,
-            "govt": 20,
-            "scty": 40
-        }
-    },
-    {
-        "name": "State Capitalism",
-        "stats": {
-            "econ": 20,
-            "dipl": 50,
             "govt": 30,
-            "scty": 50
+            "scty": 30
         }
     },
     {
         "name": "Neo-Conservatism",
         "stats": {
             "econ": 20,
-            "dipl": 20,
+            "dipl": 10,
             "govt": 40,
             "scty": 20
         }
@@ -418,7 +373,7 @@ ideologies = [
         "stats": {
             "econ": 20,
             "dipl": 50,
-            "govt": 80,
+            "govt": 70,
             "scty": 60
         }
     },
@@ -429,15 +384,6 @@ ideologies = [
             "dipl": 50,
             "govt": 100,
             "scty": 50
-        }
-    },
-    {
-        "name": "Objectivism",
-        "stats": {
-            "econ": 10,
-            "dipl": 50,
-            "govt": 90,
-            "scty": 40
         }
     },
     {
